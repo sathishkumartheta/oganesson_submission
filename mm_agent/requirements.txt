@@ -1,9 +1,0 @@
-google-adk
-google-generativeai
-google-cloud-firestore
-feedparser
-praw
-google-cloud-aiplatform[adk,agent_engines]
-cloudpickle
-google-cloud-trace
-pydantic
