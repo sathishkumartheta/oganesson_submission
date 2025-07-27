@@ -1,0 +1,5 @@
+python-dotenv
+requests
+google-cloud-firestore
+google-cloud-pubsub
+pytz

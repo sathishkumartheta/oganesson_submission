@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cityinsightmaps",
+  "private_key_id": "4d32b7022cd6b0012d828e7de3fbae78bd60d9d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhsuKvsfPHNjWw\nnz9x7ZQ2UC0DQcy703P+h8pO7sfY95ZswLYY7J/NQqECtShC8IAoM2FuMD/vnxOE\nNdi4KN8rz/nFg4NU5C3FUuozoPnTmHKeGgysRw3Z1P/cbEFdDSS9gAhvTdaHGrS3\nlTeE02GcDyrSVTgYwfJUWfvO6c0n5g5s84KYE6gn1cOyXYnVKwU8M0O7V9ZA49ir\n0M4kUz/LVrv5j2VfGzYjRuNBkmczxUv+qD8uADvQTek61mnxeTcJ8cwl3VwgOC6P\nma5fjMR/Qy6F05fAEBK7NiKgio5Gz4IWhGGvC6LhT3abaswvwBDFBgr3WclHD5I9\nnE9/27ZFAgMBAAECggEAMdfw5oa49M10wXcFyqoCYZVGv5GkPnW2B+fipphmo7SX\n8JgFjw8QwoKcrs2loNTepKImOfCnagqaQ4glvpPuJ02UlklTM2f58Lo9NR4vlgp0\ng5RyqIg/l5QJ1lrE+6EHtF7mXfhVcHxWHTXzrx6Ej7OszAscaqFIXFcL/HfXQiBK\nz5VoVDt+lEd7fXUg15GOKI6fcZyIceF3CUAQdPaxy9IMmqjXdJ1e5xxb/9HcKIIG\nuyZ/uy7I/lSUCjxpkGJIYlzSEEkFf9we3tLznzW8mnWPa9PEDRPAO8PfmEWdiKgv\nFEwGbmR6cRl1CIX7EFn9WB7D09ZPwvjM5UHICF1QiQKBgQDkW3rQfS4GxO4gQD8c\nfejn/pCsAqxw4FIH8fa4qSQ/bMHggmhmCO0Iw9PiWH85t0KZOTDVP8PQ+CsjwfIy\nBAtW48cKRV11ErMUX3qO44FugAPpDmPfzMniWkVvAcfsSB043V7zGdFASrROacXx\n+O9vegpd01SYYbXR/Nd06vNkbQKBgQD9BQUSdPdmsYEBMBIMmAvLnk/Kp1cd9tjF\nfGp7xO4iu2+zcpA09B0JlhmTlVkG9vScxgB6imkBVH9cSB9kYor4wTJuQ8wlLKqA\n5cmM47yzAmNleYCoIsByLVEF5rgqQKQ83BtFTRFeugBMReDo6CShYSBV0ZIPMPJ5\naG0iiHeCOQKBgQC4EEiRLqVfzXJHSqHUPGT0QouoKkuGfDmCr/T3aVaPTQGFDnhJ\n7l3pF7d9FWoPQnkK+j8zVD9o+/AB1X179SiSs+ymibzH9fekr0UhUZ3tTIBaZT/5\nj58WtT6MOHpGKOZtBHpZJvE0ikKFhdqIrOeKCmu6rvHcFb4xcUTVt9/RjQKBgQCw\nP9LsrHW6H2PRw/6Or0toJ3tFm5Pf15fg2W4DkYagwxhoVCGIAZRInTprx9kgNN7o\nZjTnJ4tF1epyCft0HgDYjxvmG2wVaSvMZkUj03Aa8kry4NRySuLrpg2Oos0fAbBm\nhJyqhajX55FVkEe/dhYuJE41+apY0qvVTpzXNWCqYQKBgFIMQh0dDsPH/lZAUn11\nMltP7c0Irbb7lEDO6LABrovO7nnl18tjpiuiwAQ+5NAty3+SA5xrerVfnImspYQo\nrS0G/s6yn1117h+hErPKvgq51PFRUWqi7+IdxSmcoZ0imyjlFGja1AZiE60VdI4y\nFaq7S/yl4si/1Qy2mnHuSZ1X\n-----END PRIVATE KEY-----\n",
+  "client_email": "cityinsightmaps@appspot.gserviceaccount.com",
+  "client_id": "114921746077795306655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cityinsightmaps%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

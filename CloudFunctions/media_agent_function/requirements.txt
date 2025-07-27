@@ -1,0 +1,6 @@
+python-dotenv
+requests
+google-cloud-firestore
+vertexai
+functions-framework
+google-cloud

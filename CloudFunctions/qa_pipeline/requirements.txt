@@ -1,0 +1,5 @@
+functions-framework
+google-cloud-firestore
+google-cloud-aiplatform[adk,agent_engines]
+requests
+pytz
